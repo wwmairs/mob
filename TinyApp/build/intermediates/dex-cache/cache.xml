@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/745141d663605f9009ff8677acadbfdac1a98dfe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abc000d62229839e81915aba423465539bf5e007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/e6888bff87d8b84125ff7e22f6f4cc4db55d4b26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9caec2ed82bb3580e76f1d7c3b70b23f9aa7aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_58bc30d334dc6d06b4c73e8a80f3851961715a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/4e628fe60b3e2d3452dfbd54ce81c997842a5588/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df3413718a11a93e8b6f9877df30395d3ba0d3ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/Desktop/150/TinyApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a59586da55876675931e8316bb9ba0d3ee0d25a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/cf1f56cec991b76aa54e7542e03f33d2f9bc93c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81c285826d02ca28df817a78e2ebb040219f4f48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/06ca48a2862dd7b546b207e13199dbd8eb98405f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a794deccee8a40d2074ea8a35cb6743b8d7d458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/2f85a3a6990ad57696af7b20549ee6034caf93a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab3437da76ed3d7ea8beece77be6cf40f98555a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/fbd0d1b590d0453a9e9bf64d2a98ea2080a0fc58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0628df46433413b3f4072517c1dd4a9cbfa3b368/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/bce0c19db71d1fa9dbde60b84fa44335adc26f38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a16233b9c99589582a8a46083c7f5c3506f3497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/52913daa04b7126dc23954c6391d08007782523c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88786c8de7a63b3a9105fbcc7fd498d7a3b1616c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f882f1976fb0bbc55a1a631879ff2857b858d82d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/Desktop/150/TinyApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e4d8d98fc43ecbba2737830627878dee7aff3fd2">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e8e08020f1205cc2df9b5a9ac11c7917d6ab7f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/William/.android/build-cache/0cc30954d8359ec98e32270eaf4eddfea677da21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/William/Desktop/150/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd0cd48513c253649e57282e43f7cde1a14b9645/classes.dex" />
+    </item>
+
+</items>
